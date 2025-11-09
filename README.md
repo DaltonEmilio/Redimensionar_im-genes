@@ -1,4 +1,4 @@
- /**
+ 
  * --------------------------------------------------------------
  * App: IMG Resizer
  * Autor: Dalton Enríquez
@@ -7,7 +7,7 @@
  * Trabajo en desarrollo de aplicaciones móviles, web
  * y proyectos de visión artificial con IA.	
  * --------------------------------------------------------------
- */
+ 
 
 
  
